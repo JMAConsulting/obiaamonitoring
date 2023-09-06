@@ -6,15 +6,15 @@
     "slug": "obiaa",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.08%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 463,
-    "timeDay": 376,
-    "timeWeek": 379,
-    "timeMonth": 463,
-    "timeYear": 463,
+    "time": 461,
+    "timeDay": 424,
+    "timeWeek": 380,
+    "timeMonth": 461,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2023-09-04": 13
     }
@@ -26,15 +26,15 @@
     "slug": "bbia",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.12%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 478,
-    "timeDay": 376,
-    "timeWeek": 389,
-    "timeMonth": 478,
-    "timeYear": 478,
+    "time": 474,
+    "timeDay": 390,
+    "timeWeek": 370,
+    "timeMonth": 474,
+    "timeYear": 474,
     "dailyMinutesDown": {
       "2023-09-04": 13
     }
