@@ -4,10 +4,10 @@
     "url": "https://obiaa.mainstreetrm.com",
     "icon": "https://icons.duckduckgo.com/ip3/obiaa.mainstreetrm.com.ico",
     "slug": "obiaa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.94%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "98.92%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
     "time": 437,
@@ -16,6 +16,7 @@
     "timeMonth": 437,
     "timeYear": 437,
     "dailyMinutesDown": {
+      "2023-09-14": 2,
       "2023-09-12": 107,
       "2023-09-04": 13
     }
@@ -25,7 +26,7 @@
     "url": "https://bbia.mainstreetrm.com",
     "icon": "https://icons.duckduckgo.com/ip3/bbia.mainstreetrm.com.ico",
     "slug": "bbia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.98%",
@@ -37,6 +38,7 @@
     "timeMonth": 448,
     "timeYear": 448,
     "dailyMinutesDown": {
+      "2023-09-14": 0,
       "2023-09-12": 104,
       "2023-09-04": 13
     }
