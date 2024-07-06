@@ -1,7 +1,7 @@
 url: https://dpbia.mainstreetrm.com
-status: up
-code: 200
-responseTime: 662
-lastUpdated: 2024-07-05T23:06:58.127Z
+status: down
+code: 502
+responseTime: 227
+lastUpdated: 2024-07-06T10:34:56.714Z
 startTime: 2024-05-03T05:52:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
