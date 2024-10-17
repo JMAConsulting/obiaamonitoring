@@ -27,6 +27,8 @@ sites:
     url: https://bhbia.mainstreetrm.com
   - name: dcbia
     url: https://dcbia.mainstreetrm.com
+  - name: 'Downtown Carleton Place BIA'
+    url: https://dcpbia.mainstreetrm.com
   - name: dkbia
     url: https://dkbia.mainstreetrm.com
   - name: dnbwbia
