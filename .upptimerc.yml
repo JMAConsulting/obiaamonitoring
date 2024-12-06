@@ -55,8 +55,6 @@ sites:
     url: https://pdbia.mainstreetrm.com
   - name: vbia
     url: https://vbia.mainstreetrm.com
-  - name: wwbia
-    url: https://wwbia.mainstreetrm.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
