@@ -1,7 +1,7 @@
 url: https://dkbia.mainstreetrm.com
-status: up
-code: 200
-responseTime: 311
-lastUpdated: 2025-02-10T23:06:49.871Z
+status: down
+code: 502
+responseTime: 127
+lastUpdated: 2025-02-11T23:08:05.379Z
 startTime: 2024-05-03T05:51:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
