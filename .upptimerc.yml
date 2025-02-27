@@ -11,8 +11,6 @@ sites:
     url: https://dbbia.mainstreetrm.com
   - name: dhbia
     url: https://dhbia.mainstreetrm.com
-  - name: dmbia
-    url: https://dmbia.mainstreetrm.com
   - name: dsbia
     url: https://dsbia.mainstreetrm.com
   - name: ldbia
@@ -23,8 +21,6 @@ sites:
     url: https://svbia.mainstreetrm.com
   - name: wvbia
     url: https://wvbia.mainstreetrm.com
-  - name: bhbia
-    url: https://bhbia.mainstreetrm.com
   - name: dcbia
     url: https://dcbia.mainstreetrm.com
   - name: 'Downtown Carleton Place BIA'
@@ -33,16 +29,12 @@ sites:
     url: https://dkbia.mainstreetrm.com
   - name: dnbwbia
     url: https://dnbwbia.mainstreetrm.com
-  - name: dwbia
-    url: https://dwbia.mainstreetrm.com
   - name: hobia
     url: https://hobia.mainstreetrm.com
   - name: scbia
     url: https://scbia.mainstreetrm.com
   - name: twdbia
     url: https://twdbia.mainstreetrm.com
-  - name: btbia
-    url: https://btbia.mainstreetrm.com
   - name: dgbia
     url: https://dgbia.mainstreetrm.com
   - name: dlbia
@@ -53,8 +45,6 @@ sites:
     url: https://kvbia.mainstreetrm.com
   - name: pdbia
     url: https://pdbia.mainstreetrm.com
-  - name: vbia
-    url: https://vbia.mainstreetrm.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
