@@ -35,8 +35,6 @@ sites:
     url: https://scbia.mainstreetrm.com
   - name: twdbia
     url: https://twdbia.mainstreetrm.com
-  - name: dgbia
-    url: https://dgbia.mainstreetrm.com
   - name: dlbia
     url: https://dlbia.mainstreetrm.com
   - name: dpbia
