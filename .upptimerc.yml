@@ -19,6 +19,8 @@ sites:
     url: https://qdbia.mainstreetrm.com
   - name: svbia
     url: https://svbia.mainstreetrm.com
+  - name: wvbia
+    url: https://wvbia.mainstreetrm.com
   - name: dcbia
     url: https://dcbia.mainstreetrm.com
   - name: 'Downtown Carleton Place BIA'
