@@ -19,8 +19,6 @@ sites:
     url: https://qdbia.mainstreetrm.com
   - name: svbia
     url: https://svbia.mainstreetrm.com
-  - name: wvbia
-    url: https://wvbia.mainstreetrm.com
   - name: dcbia
     url: https://dcbia.mainstreetrm.com
   - name: 'Downtown Carleton Place BIA'
@@ -43,6 +41,8 @@ sites:
     url: https://kvbia.mainstreetrm.com
   - name: pdbia
     url: https://pdbia.mainstreetrm.com
+  - name: tbia
+    url: https://tbia.mainstreetrm.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
