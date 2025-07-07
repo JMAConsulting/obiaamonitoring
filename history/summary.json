@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.63%",
     "time": 481,
-    "timeDay": 309,
-    "timeWeek": 330,
-    "timeMonth": 399,
+    "timeDay": 313,
+    "timeWeek": 336,
+    "timeMonth": 388,
     "timeYear": 477,
     "dailyMinutesDown": {
       "2025-06-19": 11,
@@ -80,8 +80,7 @@
       "2024-08-01": 66,
       "2024-07-13": 7,
       "2024-07-11": 9,
-      "2024-07-08": 9,
-      "2024-07-07": 7
+      "2024-07-08": 9
     }
   },
   {
@@ -94,12 +93,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.65%",
     "time": 525,
-    "timeDay": 288,
-    "timeWeek": 336,
-    "timeMonth": 428,
-    "timeYear": 484,
+    "timeDay": 340,
+    "timeWeek": 346,
+    "timeMonth": 417,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2025-06-19": 10,
       "2025-06-01": 8,
@@ -163,8 +162,7 @@
       "2024-08-07": 13,
       "2024-08-01": 65,
       "2024-07-11": 9,
-      "2024-07-08": 9,
-      "2024-07-07": 7
+      "2024-07-08": 9
     }
   },
   {
@@ -177,11 +175,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.68%",
     "time": 548,
-    "timeDay": 488,
-    "timeWeek": 489,
-    "timeMonth": 566,
+    "timeDay": 452,
+    "timeWeek": 481,
+    "timeMonth": 542,
     "timeYear": 557,
     "dailyMinutesDown": {
       "2025-06-19": 8,
@@ -235,8 +233,7 @@
       "2024-08-07": 13,
       "2024-08-01": 63,
       "2024-07-11": 9,
-      "2024-07-08": 8,
-      "2024-07-07": 7
+      "2024-07-08": 8
     }
   },
   {
@@ -249,11 +246,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "99.55%",
-    "time": 597,
-    "timeDay": 437,
-    "timeWeek": 438,
-    "timeMonth": 531,
+    "uptimeYear": "99.69%",
+    "time": 596,
+    "timeDay": 333,
+    "timeWeek": 432,
+    "timeMonth": 514,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2025-06-19": 7,
@@ -303,8 +300,7 @@
       "2024-08-07": 13,
       "2024-08-01": 62,
       "2024-07-21": 6,
-      "2024-07-11": 9,
-      "2024-07-07": 7
+      "2024-07-11": 9
     }
   },
   {
@@ -313,16 +309,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dsbia.mainstreetrm.com.ico",
     "slug": "dsbia",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.72%",
     "time": 487,
-    "timeDay": 481,
-    "timeWeek": 421,
-    "timeMonth": 514,
-    "timeYear": 487,
+    "timeDay": 436,
+    "timeWeek": 430,
+    "timeMonth": 503,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2025-06-01": 5,
       "2025-04-13": 19,
@@ -363,8 +359,7 @@
       "2024-08-12": 7,
       "2024-08-07": 13,
       "2024-08-01": 59,
-      "2024-07-11": 9,
-      "2024-07-07": 7
+      "2024-07-11": 9
     }
   },
   {
@@ -377,11 +372,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
-    "time": 398,
-    "timeDay": 293,
+    "uptimeYear": "99.72%",
+    "time": 397,
+    "timeDay": 292,
     "timeWeek": 328,
-    "timeMonth": 398,
+    "timeMonth": 387,
     "timeYear": 405,
     "dailyMinutesDown": {
       "2025-06-01": 5,
@@ -422,8 +417,7 @@
       "2024-08-12": 7,
       "2024-08-07": 12,
       "2024-08-01": 57,
-      "2024-07-11": 9,
-      "2024-07-07": 7
+      "2024-07-11": 9
     }
   },
   {
@@ -436,12 +430,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.72%",
     "time": 495,
-    "timeDay": 549,
-    "timeWeek": 445,
-    "timeMonth": 532,
-    "timeYear": 502,
+    "timeDay": 385,
+    "timeWeek": 442,
+    "timeMonth": 517,
+    "timeYear": 503,
     "dailyMinutesDown": {
       "2025-06-01": 5,
       "2025-04-13": 18,
@@ -480,8 +474,7 @@
       "2024-08-15": 8,
       "2024-08-07": 12,
       "2024-08-01": 56,
-      "2024-07-11": 9,
-      "2024-07-07": 7
+      "2024-07-11": 9
     }
   },
   {
@@ -494,12 +487,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.72%",
     "time": 481,
-    "timeDay": 350,
-    "timeWeek": 398,
-    "timeMonth": 533,
-    "timeYear": 480,
+    "timeDay": 341,
+    "timeWeek": 392,
+    "timeMonth": 519,
+    "timeYear": 481,
     "dailyMinutesDown": {
       "2025-06-01": 5,
       "2025-04-13": 16,
@@ -535,8 +528,7 @@
       "2024-08-15": 6,
       "2024-08-07": 12,
       "2024-08-01": 54,
-      "2024-07-11": 9,
-      "2024-07-07": 7
+      "2024-07-11": 9
     }
   },
   {
@@ -549,11 +541,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.56%",
-    "time": 434,
-    "timeDay": 297,
-    "timeWeek": 345,
-    "timeMonth": 425,
+    "uptimeYear": "99.71%",
+    "time": 433,
+    "timeDay": 259,
+    "timeWeek": 336,
+    "timeMonth": 412,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2025-06-01": 5,
@@ -592,8 +584,7 @@
       "2024-10-14": 7,
       "2024-08-07": 12,
       "2024-08-01": 53,
-      "2024-07-11": 9,
-      "2024-07-07": 7
+      "2024-07-11": 9
     }
   },
   {
@@ -602,15 +593,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dcbia.mainstreetrm.com.ico",
     "slug": "dcbia",
     "status": "up",
-    "uptime": "99.46%",
+    "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.74%",
     "time": 463,
-    "timeDay": 369,
-    "timeWeek": 414,
-    "timeMonth": 506,
+    "timeDay": 415,
+    "timeWeek": 426,
+    "timeMonth": 493,
     "timeYear": 461,
     "dailyMinutesDown": {
       "2025-06-01": 5,
@@ -644,8 +635,7 @@
       "2024-10-30": 7,
       "2024-10-10": 9,
       "2024-08-01": 47,
-      "2024-07-11": 9,
-      "2024-07-07": 7
+      "2024-07-11": 9
     }
   },
   {
@@ -659,11 +649,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
-    "time": 520,
-    "timeDay": 485,
-    "timeWeek": 474,
-    "timeMonth": 574,
-    "timeYear": 520,
+    "time": 519,
+    "timeDay": 430,
+    "timeWeek": 479,
+    "timeMonth": 560,
+    "timeYear": 519,
     "dailyMinutesDown": {
       "2025-06-01": 6,
       "2025-04-13": 12,
@@ -706,12 +696,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.75%",
-    "time": 473,
-    "timeDay": 459,
-    "timeWeek": 433,
-    "timeMonth": 525,
-    "timeYear": 476,
+    "uptimeYear": "99.79%",
+    "time": 472,
+    "timeDay": 378,
+    "timeWeek": 426,
+    "timeMonth": 514,
+    "timeYear": 477,
     "dailyMinutesDown": {
       "2025-06-01": 6,
       "2025-02-14": 11,
@@ -739,8 +729,7 @@
       "2024-10-30": 7,
       "2024-10-10": 8,
       "2024-08-01": 46,
-      "2024-07-11": 9,
-      "2024-07-07": 7
+      "2024-07-11": 9
     }
   },
   {
@@ -749,16 +738,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dnbwbia.mainstreetrm.com.ico",
     "slug": "dnbwbia",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
+    "uptimeYear": "99.74%",
     "time": 474,
-    "timeDay": 355,
-    "timeWeek": 391,
-    "timeMonth": 519,
-    "timeYear": 476,
+    "timeDay": 515,
+    "timeWeek": 411,
+    "timeMonth": 512,
+    "timeYear": 477,
     "dailyMinutesDown": {
       "2025-06-01": 6,
       "2025-02-14": 11,
@@ -789,8 +778,7 @@
       "2024-11-10": 268,
       "2024-10-30": 7,
       "2024-10-10": 8,
-      "2024-08-01": 44,
-      "2024-07-07": 7
+      "2024-08-01": 44
     }
   },
   {
@@ -805,9 +793,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 600,
-    "timeDay": 374,
+    "timeDay": 442,
     "timeWeek": 523,
-    "timeMonth": 593,
+    "timeMonth": 582,
     "timeYear": 600,
     "dailyMinutesDown": {
       "2025-06-01": 17,
@@ -853,11 +841,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
+    "uptimeYear": "99.74%",
     "time": 500,
-    "timeDay": 427,
-    "timeWeek": 499,
-    "timeMonth": 599,
+    "timeDay": 404,
+    "timeWeek": 502,
+    "timeMonth": 585,
     "timeYear": 501,
     "dailyMinutesDown": {
       "2025-06-01": 6,
@@ -890,8 +878,7 @@
       "2024-10-30": 7,
       "2024-09-26": 17,
       "2024-08-17": 3,
-      "2024-08-01": 41,
-      "2024-07-07": 7
+      "2024-08-01": 41
     }
   },
   {
@@ -900,16 +887,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/twdbia.mainstreetrm.com.ico",
     "slug": "twdbia",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.71%",
+    "uptimeYear": "99.74%",
     "time": 488,
-    "timeDay": 460,
-    "timeWeek": 479,
-    "timeMonth": 550,
-    "timeYear": 490,
+    "timeDay": 546,
+    "timeWeek": 489,
+    "timeMonth": 542,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2025-06-01": 6,
       "2025-02-14": 11,
@@ -939,8 +926,7 @@
       "2024-11-10": 269,
       "2024-10-30": 7,
       "2024-09-26": 15,
-      "2024-08-01": 41,
-      "2024-07-07": 7
+      "2024-08-01": 41
     }
   },
   {
@@ -949,15 +935,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dlbia.mainstreetrm.com.ico",
     "slug": "dlbia",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.50%",
+    "uptimeYear": "98.54%",
     "time": 499,
-    "timeDay": 548,
-    "timeWeek": 478,
-    "timeMonth": 615,
+    "timeDay": 396,
+    "timeWeek": 469,
+    "timeMonth": 597,
     "timeYear": 507,
     "dailyMinutesDown": {
       "2025-06-01": 6,
@@ -990,8 +976,7 @@
       "2024-09-26": 13,
       "2024-08-01": 568,
       "2024-08-02": 1394,
-      "2024-07-11": 4,
-      "2024-07-07": 7
+      "2024-07-11": 4
     }
   },
   {
@@ -1004,11 +989,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.89%",
     "time": 475,
-    "timeDay": 369,
-    "timeWeek": 396,
-    "timeMonth": 522,
+    "timeDay": 359,
+    "timeWeek": 389,
+    "timeMonth": 506,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2025-06-01": 6,
@@ -1041,8 +1026,7 @@
       "2024-10-30": 7,
       "2024-10-13": 10,
       "2024-09-26": 11,
-      "2024-08-01": 41,
-      "2024-07-07": 7
+      "2024-08-01": 41
     }
   },
   {
@@ -1055,12 +1039,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.80%",
-    "time": 478,
-    "timeDay": 356,
-    "timeWeek": 406,
-    "timeMonth": 536,
-    "timeYear": 484,
+    "uptimeYear": "98.83%",
+    "time": 477,
+    "timeDay": 383,
+    "timeWeek": 410,
+    "timeMonth": 521,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2025-06-01": 6,
       "2025-02-14": 11,
@@ -1091,8 +1075,7 @@
       "2024-10-30": 7,
       "2024-09-26": 10,
       "2024-08-01": 568,
-      "2024-08-02": 1393,
-      "2024-07-07": 7
+      "2024-08-02": 1393
     }
   },
   {
@@ -1101,15 +1084,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pdbia.mainstreetrm.com.ico",
     "slug": "pdbia",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.31%",
+    "uptimeYear": "98.35%",
     "time": 493,
-    "timeDay": 427,
-    "timeWeek": 411,
-    "timeMonth": 503,
+    "timeDay": 387,
+    "timeWeek": 408,
+    "timeMonth": 492,
     "timeYear": 498,
     "dailyMinutesDown": {
       "2025-06-01": 6,
@@ -1142,8 +1125,7 @@
       "2024-11-10": 269,
       "2024-10-30": 7,
       "2024-09-26": 9,
-      "2024-08-01": 41,
-      "2024-07-07": 7
+      "2024-08-01": 41
     }
   },
   {
@@ -1157,11 +1139,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 471,
-    "timeWeek": 411,
-    "timeMonth": 513,
-    "timeYear": 476,
+    "time": 475,
+    "timeDay": 373,
+    "timeWeek": 407,
+    "timeMonth": 501,
+    "timeYear": 475,
     "dailyMinutesDown": {
       "2025-06-01": 6
     }
@@ -1172,15 +1154,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dgbia.mainstreetrm.com.ico",
     "slug": "dgbia",
     "status": "up",
-    "uptime": "90.79%",
+    "uptime": "90.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.29%",
+    "uptimeYear": "91.45%",
     "time": 475,
-    "timeDay": 448,
-    "timeWeek": 482,
-    "timeMonth": 561,
+    "timeDay": 436,
+    "timeWeek": 480,
+    "timeMonth": 550,
     "timeYear": 479,
     "dailyMinutesDown": {
       "2025-06-01": 6,
@@ -1221,8 +1203,7 @@
       "2024-11-10": 269,
       "2024-10-30": 7,
       "2024-09-26": 14,
-      "2024-08-01": 41,
-      "2024-07-07": 7
+      "2024-08-01": 41
     }
   }
 ]
