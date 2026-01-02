@@ -13,8 +13,6 @@ sites:
     url: https://dhbia.mainstreetrm.com
   - name: dsbia
     url: https://dsbia.mainstreetrm.com
-  - name: ldbia
-    url: https://ldbia.mainstreetrm.com
   - name: qdbia
     url: https://qdbia.mainstreetrm.com
   - name: svbia
@@ -35,8 +33,6 @@ sites:
     url: https://scbia.mainstreetrm.com
   - name: twdbia
     url: https://twdbia.mainstreetrm.com
-  - name: dlbia
-    url: https://dlbia.mainstreetrm.com
   - name: dpbia
     url: https://dpbia.mainstreetrm.com
   - name: kvbia
