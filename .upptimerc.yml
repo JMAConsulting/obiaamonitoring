@@ -23,8 +23,6 @@ sites:
     url: https://dnbwbia.mainstreetrm.com
   - name: hobia
     url: https://hobia.mainstreetrm.com
-  - name: scbia
-    url: https://scbia.mainstreetrm.com
   - name: twdbia
     url: https://twdbia.mainstreetrm.com
   - name: kvbia
